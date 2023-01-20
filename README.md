@@ -1,4 +1,4 @@
-# Varta Promotion Tablet
+# React_TypeScript_TailwindCSS_Starter_Kit
 
 
 
